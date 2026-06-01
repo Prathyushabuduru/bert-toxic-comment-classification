@@ -43,4 +43,4 @@ nuances — this project uses transformer-based BERT to solve that.
 ## How to Run
 1. Clone this repository
 2. Install requirements: pip install -r requirements.txt
-3. Open the notebook: jupyter notebook Week_6_Group_1.ipynb
+3. Open the notebook: jupyter notebook toxic_classification.ipynb
